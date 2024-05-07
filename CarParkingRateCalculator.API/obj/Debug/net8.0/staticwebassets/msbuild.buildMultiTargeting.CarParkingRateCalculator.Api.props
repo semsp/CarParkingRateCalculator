@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarParkingRateCalculator.Api.props" />
+</Project>

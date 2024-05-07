@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarParkingRateCalculator.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CarParkingRateCalculator.Controllers.RateCalculatorController.Get(CarParkingRateCalculator.Api.Models.RateRequest)">
+            <summary>
+            Calculate the car parking rate based on the entry date time and exit date time.
+            </summary>
+            <param name="rateRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CarParkingRateCalculator.Api.Models.RateRequest">
+            <summary>
+            Object with request params
+            </summary>
+        </member>
+        <member name="P:CarParkingRateCalculator.Api.Models.RateRequest.EntryDateTime">
+            <summary>
+            Entry date time into the Car Parking
+            </summary>
+        </member>
+        <member name="P:CarParkingRateCalculator.Api.Models.RateRequest.ExitDateTime">
+            <summary>
+            Exit date time from the Car Parking
+            </summary>
+        </member>
+        <member name="M:CarParkingRateCalculator.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:CarParkingRateCalculator.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

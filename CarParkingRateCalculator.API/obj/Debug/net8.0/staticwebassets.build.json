@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UqNDyGLHpZlxopr7mOncrMs5tusS1uTn1TvlAdWjKj4=",
+  "Source": "CarParkingRateCalculator.Api",
+  "BasePath": "_content/CarParkingRateCalculator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

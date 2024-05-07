@@ -1,0 +1,11 @@
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\bin\Debug\net8.0\CarParkRateCalculator.Services.deps.json
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\bin\Debug\net8.0\CarParkRateCalculator.Services.dll
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\bin\Debug\net8.0\CarParkRateCalculator.Services.pdb
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\CarParkRateCalculator.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\CarParkRateCalculator.Services.AssemblyInfoInputs.cache
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\CarParkRateCalculator.Services.AssemblyInfo.cs
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\CarParkRateCalculator.Services.csproj.CoreCompileInputs.cache
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\CarParkRateCalculator.Services.dll
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\refint\CarParkRateCalculator.Services.dll
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\CarParkRateCalculator.Services.pdb
+C:\demo\CarParkRateCalculator-master\CarParkRateCalculator-master\CarParkRateCalculator.Services\obj\Debug\net8.0\ref\CarParkRateCalculator.Services.dll

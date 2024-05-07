@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarParkRateCalculator.Services/1.0.0": {
+        "runtime": {
+          "CarParkRateCalculator.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarParkRateCalculator.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
