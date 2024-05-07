@@ -2,8 +2,9 @@
 
 Create an API that does a rate calculation engine for a carpark The inputs for this engine are:
 
-Car Entry Date and Time
-Car Exit Date and Time
+1. Car Entry Date and Time
+2. Car Exit Date and Time
+   
 Based on these 2 inputs the engine program should calculate the correct rate for the customer and display the name of the rate along with the total price to the customer using the following rates:
 Name of the Rate Early Bird Type Flat Rate Total Price $13.00 Entry Condition Enter between 6:00 AM to 9:00 AM Exit Condition Exit between 3:30 PM to 11:30 PM
 
